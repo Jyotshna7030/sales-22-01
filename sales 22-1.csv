@@ -1,0 +1,7 @@
+Order id,Order date ,Region,Customer Id,Product ,Category,Sales ,Quantity,Profit
+1,01-01-21,East,Coo1,Product A,Electronics,500,2,100
+2,02-01-21,West,Coo2,Product B,Furniture,300,1,50
+3,03-01-21,East,Coo3,Product C,Electronics,200,3,30
+4,04-01-21,North,Coo4,Product D,Office Supplies,100,5,20
+5,05-01-21,South,Coo5,Product E,Furniture,400,2,90
+6,06-01-21,East,Coo6,Product F,Electronics,600,1,120
